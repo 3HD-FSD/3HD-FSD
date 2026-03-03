@@ -3,8 +3,11 @@
 <h1>Hi Devs 👋 I'm 3HD</h1>
 
 <h3>
-Programming Fundamentals with C++ <br/>
-Problem Solver • Solved <b>354+</b> Programming Problems
+I'm Student At <b>Damascus University At ITF</b></br>
+Programming With Fandamental & Advanced <i>C++</i> Concepts</br>
+Programming With Fundamental & Swing <i>Java</i> Language
 </h3>
 
 </div>
+
+---
