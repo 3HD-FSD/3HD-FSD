@@ -88,6 +88,9 @@ Transitioning into Full-Stack Web Development:
 <a href="mailto:ahedkaadanalhomsi@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://t.me/ITE_3HD" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 
 <br /><br />
 
